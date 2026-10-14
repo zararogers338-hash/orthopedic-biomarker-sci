@@ -1,0 +1,4 @@
+interface:
+  display_name: "骨科生物标志物 SCI 研究"
+  short_description: "面向 BioFactors 特刊的骨科选题、公共数据研究、实验验证与 SCI 投稿"
+  default_prompt: "使用 $orthopedic-biomarker-sci，先核实目标特刊与研究资源，再推进骨科生物标志物研究的当前阶段。"
